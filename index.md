@@ -3,7 +3,7 @@
 ###  Introducción.
 
 
-Este repositorio se creó como parte de un proyecto final de el curso propedéutico "Herramientas de Productividad para Ciencia de Datos" de la maestría en ciencia de datos de la universidad de sonora, con el propósito de analizar los datos de casos de Covid-19 durante el día 1 de Febrero del 2022 pertenecientes al país de México. Así como también se mostrará la forma y metodología utilizada para realizar este procedimiento.
+Este repositorio se creó como parte de un proyecto final de el curso propedéutico "Herramientas de Productividad para Ciencia de Datos" de la maestría en ciencia de datos de la universidad de sonora, con el propósito de analizar los datos de casos de Covid-19 durante el día 14 de Febrero del 2022 pertenecientes al país de México. Así como también se mostrará la forma y metodología utilizada para realizar este procedimiento.
 
 
 ### Problema.
