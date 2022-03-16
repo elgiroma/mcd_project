@@ -38,4 +38,4 @@ docker start -i ContenedorCovid
 
 
 ![Image](./graficas/grafica_hombres.png)
-![Image](./graficas/grafica_mujeres.png)
+![Image1](./graficas/grafica_mujeres.png)
