@@ -7,7 +7,7 @@ WORKDIR /root
 RUN  apt-get -y update && \
      apt-get install -yq curl unzip git pip python3.8 python3-pip
 
-RUN pip install csvkit pandas matplotlib kaleido
+RUN pip install csvkit pandas matplotlib
 
 RUN  curl -L -O https://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/historicos/2022/01/datos_abiertos_covid19_01.01.2022.zip &&\
      unzip datos_abiertos_covid19_01.01.2022.zip &&\
