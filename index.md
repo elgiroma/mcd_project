@@ -35,3 +35,7 @@ docker start -i ContenedorCovid
  
  6. Estas son las gráficas de el número de hombres y mujeres con covid el 14 de febrero del 2022 que padecían con diabetes
 
+
+
+![Image](./documentos/grafica_hombres.png)
+![Image](./documentos/grafica_mujeres.png)
