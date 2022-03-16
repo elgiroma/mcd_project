@@ -17,6 +17,7 @@ ax = fig.add_axes([0,0,1,1])
 etiquetas_hombre = ['Si tiene (hombre)', 'No tiene (hombre)', 'No aplica (hombre)']
 hombres = [si_tiene_hombre,no_tiene_hombre,no_aplica_hombre]
 ax.bar(etiquetas_hombre,hombres)
+plt.savefig('./grafica_hombres.png')
 plt.show()
 
 
@@ -30,4 +31,5 @@ ax = fig.add_axes([0,0,1,1])
 etiquetas_mujer = ['Si tiene (mujer)', 'No tiene (mujer)', 'No aplica (mujer)']
 mujeres = [si_tiene_mujer,no_tiene_mujer,no_aplica_mujer]
 ax.bar(etiquetas_mujer,mujeres)
+plt.savefig('./grafica_mujeres.png')
 plt.show()
