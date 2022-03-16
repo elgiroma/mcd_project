@@ -38,5 +38,7 @@ docker run -it --name mcd-contenedor covidimage
 docker start -i ContenedorCovid
 ```
 
-
+ 5. Dentro del contenedor se encuentra el csv listo, la imágen agrega todas las librerías necesarias y se resuelve el problema con un script .py
+ 
+ 6. Estas son las gráficas de el número de hombres y mujeres con covid el 14 de febrero del 2022 que padecían con diabetes
 
