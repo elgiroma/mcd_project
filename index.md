@@ -1,4 +1,4 @@
-##  Proyecto final de Curso Herramientas de Productividad para Ciencia de Datos.
+##  Proyecto final de Curso Propedéutico de la maestria en Ciencia de Datos. Herramientas de Productividad para Ciencia de Datos.
 
 ###  Introducción.
 
